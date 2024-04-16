@@ -1,5 +1,6 @@
 # Votre mission si vous l'acceptez !
 ![image](https://github.com/emf-info-226b/Immatriculation-Javadoc/assets/3630367/a01269d2-0ad3-403d-86c5-622a2f895375)
+
 Vous êtes le "Product Owner" de l'équipe de développement de la société FluxMedia. Vous travaillez aujourd'hui depuis la maison et vous devez transmettre une spécification à un développeur de votre équipe sur un ticket bien précis de la "Product Backlog".
 L'objectif est de rédiger une spécification la plus précise possible pour que le développeur ait le moins de question en codant la méthode.
 
