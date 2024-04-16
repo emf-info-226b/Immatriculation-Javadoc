@@ -12,10 +12,10 @@ Méthode Plaque d'immatriculation voiture Suisse
 public boolean controlePlaqueImmatriculation( String canton, String numeroPlaque ) {}
 Les seuls caractères autorisés sont les caractères A-Z pour le canton et des numéros pour le numéro de plaque.  
 Comportement souhaité :
-	canton	numeroPlaque	résultat souhaité
-	"FR"	"12"	true
-	"VD2333"	"33"	false
-	"Fr"	"12345"	false
-	"HP"	"13333"	false
+canton		numeroPlaque	résultat souhaité
+"FR"		"12"		true
+"VD2333"	"33"		false
+"Fr"		"12345"		false
+"HP"		"13333"		false
 ```
 Dès que vous avez terminé la spécification de la méthode vous pouvez réaliser un git push pour déposer la spécification de la méthode.
