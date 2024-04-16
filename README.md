@@ -19,4 +19,3 @@ Comportement souhaité :
 	"HP"	"13333"	false
 ```
 Dès que vous avez terminé la spécification de la méthode vous pouvez réaliser un git push pour déposer la spécification de la méthode.
-![image](https://github.com/emf-info-226b/Immatriculation-Javadoc/assets/3630367/4380516a-c85f-49cd-b3a1-6c320b4756ae)
